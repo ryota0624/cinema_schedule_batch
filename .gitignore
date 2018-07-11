@@ -2,7 +2,7 @@
 ### SBT template
 # Simple Build Tool
 # http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
-
+.env
 dist/*
 target/
 lib_managed/
@@ -26,4 +26,3 @@ project/plugins/project/
 .idea/workspace.xml
 build.sbt
 project/
-src/

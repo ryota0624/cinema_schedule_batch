@@ -1,0 +1,5 @@
+package cinemaScheduleBatch
+
+trait UnitedCinemaSchedulesCollectorBatch {
+
+}
